@@ -1,15 +1,13 @@
-# 🐶 Stanford Dog Classification
+# Stanford Dog Breed Classification 🐶
 
-This deep learning project focuses on fine-grained image classification using the Stanford Dogs Dataset. The goal was to classify dog breeds using convolutional neural networks.
+A deep learning project using the Stanford Dogs dataset to classify fine-grained dog breeds using pre-trained CNNs.
 
-### 🧠 Models Used:
-- VGG16
-- ResNet
-- Transfer Learning
+**Tech Stack**: Python, TensorFlow, Keras, VGG16, ResNet
 
-### 🚀 What I Did:
-- Applied data augmentation (cropping, flipping, normalization)
-- Used pre-trained models with fine-tuning
-- Achieved 40.2% validation accuracy through hyperparameter tuning
+**Highlights**:
+- Built and trained convolutional neural networks (CNNs) using transfer learning
+- Applied data augmentation (flipping, cropping, normalization) to improve model generalization
+- Achieved 40.2% validation accuracy on challenging fine-grained classification
+- Used VGG16 and ResNet architectures with hyperparameter tuning
 
-🔗 [View Full Project Code on GitHub](https://github.com/adarsha-ujjanimatha/fine-grained-image-classification)
+**GitHub Repo**: [View Code](https://github.com/adarsha-ujjanimatha/fine-grained-image-classification)
