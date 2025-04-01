@@ -1,15 +1,13 @@
-# 🗞️ Newspaper Logistics Efficiency
+# Newspaper Logistics Efficiency 🗞️
 
-A data analytics project focused on evaluating and improving the operational efficiency of newspaper distribution systems using multi-stage DEA modeling.
+Analyzed and optimized the operational efficiency of newspaper distribution using multi-stage DEA models.
 
-### ⚙️ Techniques Used:
-- Multi-stage Data Envelopment Analysis (DEA)
-- Sensitivity & Correlation Analysis
-- Python Visualization (Matplotlib, Seaborn)
+**Tech Stack**: Python, DEA Modeling, Matplotlib, Seaborn
 
-### 📈 What I Did:
-- Analyzed logistics performance using DEA
-- Identified inefficiencies in distribution routes
-- Created dashboards for performance comparison and optimization
+**Highlights**:
+- Applied multi-stage Data Envelopment Analysis (DEA) to evaluate performance metrics
+- Identified bottlenecks and areas of inefficiency across the supply chain
+- Created interactive Python dashboards for visualization and performance reporting
+- Conducted sensitivity and correlation analysis to support strategic decision-making
 
-🔗 [View Full Project Code on GitHub](https://github.com/adarsha-ujjanimatha/newspaper-logistics-efficiency)
+**GitHub Repo**: [View Code](https://github.com/adarsha-ujjanimatha/newspaper-logistics-efficiency)
