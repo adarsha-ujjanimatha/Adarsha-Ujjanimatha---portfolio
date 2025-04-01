@@ -1,16 +1,13 @@
-# 🎯 YouTube Bait Detector
+# YouTube Bait Detector 🎯
 
-An AI-powered system that detects clickbait videos in YouTube recommendations using Natural Language Processing (NLP) and Machine Learning techniques.
+An AI-powered system to detect clickbait videos from YouTube recommendations using NLP and machine learning.
 
-### 🔧 Tools Used:
-- Python
-- Scikit-learn
-- TF-IDF
-- Logistic Regression, Random Forest
+**Tech Stack**: Python, Scikit-learn, TF-IDF, Logistic Regression, Random Forest
 
-### 🔍 What I Did:
-- Extracted metadata from YouTube videos
-- Trained ML models to classify videos as clickbait or not
-- Reduced false positives by 25%
+**Highlights**:
+- Collected and cleaned metadata from thousands of YouTube videos
+- Applied NLP techniques (TF-IDF, sentiment analysis)
+- Built ML models to detect clickbait with 25% fewer false positives
+- Visualized data trends and model performance
 
-🔗 [View Full Project Code on GitHub](https://github.com/adarsha-ujjanimatha/YouTube-bait-detector)
+**GitHub Repo**: [View Code](https://github.com/adarsha-ujjanimatha/YouTube-bait-detector)
