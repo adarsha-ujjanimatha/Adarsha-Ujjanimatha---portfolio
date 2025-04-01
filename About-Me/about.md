@@ -1,11 +1,21 @@
-# 👋 About Me
+# About Me
 
-I’m a recent MSc graduate in Data Science and Analytics from Cardiff University with a passion for solving real-world problems using data.
+Hi there! 👋 I'm **Adarsha Ujjanimatha**, a passionate and driven Data Scientist with an MSc in Data Science & Analytics from Cardiff University (2024). I thrive at the intersection of data, technology, and human impact — and I enjoy solving real-world problems using analytical thinking and AI-driven tools.
 
-I have hands-on experience with:
-- Machine Learning (NLP, classification models)
-- Data Visualization (Tableau, Power BI)
-- Cloud platforms (AWS, GCP, Azure)
-- Programming in Python, SQL, and C++
+### 🔧 Tools & Skills
+I’m skilled in:
+- **Languages**: Python, SQL, Java, C++, R  
+- **Libraries & Tools**: Pandas, NumPy, Scikit-learn, TensorFlow, Power BI, Tableau  
+- **Concepts**: Machine Learning, NLP, Data Engineering, Predictive Modeling, Cloud Computing (AWS, Azure)
 
-I've built end-to-end projects including an AI-powered YouTube clickbait detector, deep learning for image classification, and a business intelligence dashboard for salary trends. I’m eager to apply my skills to drive data-driven decisions in dynamic organizations.
+### 🧠 What I’ve Built
+My projects include:
+- 🎯 An AI-based YouTube Clickbait Detection System using NLP  
+- 🐶 Fine-grained Dog Breed Classification using CNNs  
+- 📊 Salary & Workforce Dashboards to inform HR strategies  
+- 🗞️ DEA modeling to improve logistics efficiency in newspaper distribution
+
+### 🚀 My Mission
+I’m passionate about using data to create meaningful impact — whether that’s automating workflows, improving user experience, or driving better decisions through visual storytelling. I love collaborating with cross-functional teams and continuously learning new technologies.
+
+Let’s connect and build something amazing together!  
