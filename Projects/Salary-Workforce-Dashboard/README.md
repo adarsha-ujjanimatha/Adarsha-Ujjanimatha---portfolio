@@ -1,16 +1,13 @@
-# 📊 Salary & Workforce Dashboard
+# Salary & Workforce Analytics Dashboard 📊
 
-An interactive business intelligence dashboard designed to visualize salary distribution and workforce trends across various industries using Power BI and Tableau.
+Designed interactive dashboards to analyze salary trends, workforce distribution, and hiring strategies across industries.
 
-### 📌 Tools Used:
-- Power BI
-- Tableau
-- SQL
-- Google Analytics
+**Tech Stack**: Power BI, Tableau, Google Analytics, SQL
 
-### 💡 What I Did:
-- Designed dashboards to analyze salary structures and hiring trends
-- Conducted A/B testing to evaluate compensation strategies
-- Integrated Google Analytics data for workforce engagement insights
+**Highlights**:
+- Built dashboards in Power BI and Tableau to visualize salary distribution and job retention trends
+- Used A/B testing to compare compensation structures and their impact on retention
+- Integrated SQL queries and Google Analytics data to assess workforce engagement and hiring efficiency
+- Presented strategic insights for HR optimization and business intelligence
 
-🔗 [View Full Project Code on GitHub](https://github.com/adarsha-ujjanimatha/salary-workforce-analytics)
+**GitHub Repo**: [View Dashboard Files](https://github.com/adarsha-ujjanimatha/salary-workforce-analytics)
